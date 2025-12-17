@@ -6,7 +6,7 @@
       "remark": "BU4 power user"
     },
     "chokchai": {
-      "permit": true,
+      "permit": false,
       "remark": "permitted"
     }
   }
