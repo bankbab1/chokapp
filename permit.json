@@ -18,7 +18,11 @@
       "remark": "Asics Puma"
     },
     "natthakarn": {
-      "permit": false,
+      "permit": true,
+      "remark": "Melissa, Marithe, Shoebar, New Era"
+    },
+    "wichuda.m": {
+      "permit": true,
       "remark": "Melissa, Marithe, Shoebar, New Era"
     }
   }
