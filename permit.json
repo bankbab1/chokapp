@@ -24,6 +24,10 @@
     "wichuda.m": {
       "permit": true,
       "remark": "Melissa, Marithe, Shoebar, New Era"
+    },
+    "witlada": {
+      "permit": true,
+      "remark": "test"
     }
   }
 }
