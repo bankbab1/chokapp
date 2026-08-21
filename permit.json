@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-24",
+  "updated_at": "2026-08-21",
   "allowed_users": {
     "thanaporn": {
       "permit": true,
@@ -24,6 +24,10 @@
     "wichuda.m": {
       "permit": true,
       "remark": "Melissa, Marithe, Shoebar, New Era"
+    },
+    "runglawan": {
+      "permit": true,
+      "remark": ""
     }
   }
 }
